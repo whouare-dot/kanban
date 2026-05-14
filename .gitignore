@@ -1,0 +1,35 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code local settings
+.claude/
+
+# Configuration backups
+.history/
+
+# Personal config (use config.example.json as template)
+config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Environment variables
+.env
+.env.local

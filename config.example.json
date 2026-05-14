@@ -1,0 +1,29 @@
+{
+  "apps": [
+    {
+      "name": "示例应用",
+      "path": "D:/Tools/example-app",
+      "description": "这是一个示例项目描述",
+      "tags": ["AI / 机器学习"],
+      "icon": "🤖",
+      "launch_type": "startfile",
+      "command": "",
+      "args": ""
+    },
+    {
+      "name": "命令行示例",
+      "path": "D:/Tools/my-python-project",
+      "description": "Python 命令行项目",
+      "tags": ["个人开发作品"],
+      "icon": "📝",
+      "launch_type": "command",
+      "command": "python main.py",
+      "args": ""
+    }
+  ],
+  "settings": {
+    "card_font_size": "medium",
+    "card_order": {},
+    "pinned": {}
+  }
+}
