@@ -19,6 +19,11 @@ A PyQt6-based Windows desktop launcher that organizes local tools and projects i
 - **Keyboard navigation** — arrow keys to move, Enter to launch, Escape to clear search
 - **Delete safely** — removes entries from the launcher only, never touches disk files
 
+<img alt="image" src="https://github.com/user-attachments/assets/ee20301a-da73-4407-a6ef-88a10eab24df" width="600" />
+<img alt="image" src="https://github.com/user-attachments/assets/e6347051-d23e-4cf5-8949-1518b08c3dfb" width="600"/>
+<img alt="image" src="https://github.com/user-attachments/assets/29f67973-5cb4-47b6-a5c1-98bc299a53e1" width="600"/>
+<img alt="image" src="https://github.com/user-attachments/assets/bb6ca016-31d5-4c70-a449-9b5dc0588644" width="600"/>
+
 
 ## Quick Start
 
