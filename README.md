@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kanban Launcher (看板启动器)
 
 A PyQt6-based Windows desktop launcher that organizes local tools and projects into a searchable, tag-filtered card grid. Double-click to launch, drag to reorder, and let AI write descriptions for you.
@@ -138,3 +139,7 @@ kanban-launcher/
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
+=======
+# kanban
+基于 PyQt6 构建的 Windows 桌面应用启动面板。将本地工具和项目以卡片网格形式组织，支持标签分类、模糊搜索、拖拽排序，并可调用 AI 自动生成项目描述。
+>>>>>>> c3fc4f2d25b839c88fcaf0b648f04312533c344e
