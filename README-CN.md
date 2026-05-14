@@ -18,10 +18,10 @@
 - **键盘操作** — 方向键切换焦点，Enter 启动，Escape 清除搜索
 - **安全删除** — 仅从启动器移除条目，绝不触碰磁盘文件
 
-<img width="1704" height="1097" alt="image" src="https://github.com/user-attachments/assets/ee20301a-da73-4407-a6ef-88a10eab24df" />
-<img width="963" height="945" alt="image" src="https://github.com/user-attachments/assets/e6347051-d23e-4cf5-8949-1518b08c3dfb" />
-<img width="783" height="828" alt="image" src="https://github.com/user-attachments/assets/29f67973-5cb4-47b6-a5c1-98bc299a53e1" />
-<img width="783" height="828" alt="image" src="https://github.com/user-attachments/assets/bb6ca016-31d5-4c70-a449-9b5dc0588644" />
+<img alt="image" src="https://github.com/user-attachments/assets/ee20301a-da73-4407-a6ef-88a10eab24df" width="600" />
+<img alt="image" src="https://github.com/user-attachments/assets/e6347051-d23e-4cf5-8949-1518b08c3dfb" width="600"/>
+<img alt="image" src="https://github.com/user-attachments/assets/29f67973-5cb4-47b6-a5c1-98bc299a53e1" width="600"/>
+<img alt="image" src="https://github.com/user-attachments/assets/bb6ca016-31d5-4c70-a449-9b5dc0588644" width="600"/>
 
 
 ## 快速开始
